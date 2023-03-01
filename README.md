@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # code-with-quarkus Project
 Simple message broker using apache kafka and java-quarkus
 
@@ -69,6 +68,3 @@ Use SmallRye Reactive Messaging
 Easily start your RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
-=======
-# kafka-quarkus
->>>>>>> 4355b51045463b505a9fc2b31eb38ab37d792963
